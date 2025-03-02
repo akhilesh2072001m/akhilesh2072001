@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm AKHILESH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="<h1 align="center">Hi 👋, I'm AKHILESH KUMAR</h1>
+<img align="right" alt="coding" width="400px" src="https://media4.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b9524tubtjt1jexu5xpg5s2ray6nybtz3385hzdjqg4w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<h1 align="center">Hi 👋, I'm AKHILESH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh2072001m&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh2072001m" /> </p>
